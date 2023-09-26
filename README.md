@@ -2,9 +2,11 @@
 # Console calculator
 # [MADE FOR JAVA COURSE IN SOFTUNI](https://github.com/Kaloioanness/SoftUni)
 
-Това е конзолно приложение, което представлява калкулатор в Java. 
-Приложението приема две числа и оператор (+, -, *, /), след което извършва съответната математическа операция и извежда резултата на екрана.
+This is a console application representing a calculator in Java.
 
-## Функционалности:
-    Поддържани операции: събиране (+), изваждане (-), умножение (*), деление (/).
-    Проверка за деление на нула.
+The application accepts two numbers and an operator (+, -, *, /), then performs the corresponding mathematical operation and displays the result on the screen.
+
+
+## Features:
+   - Supported operations: addition (+), subtraction (-), multiplication (*), division (/).
+   - Division by zero check.
