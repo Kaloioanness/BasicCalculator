@@ -1,6 +1,8 @@
 # [CalculatorApp](https://github.com/Kaloioanness/BasicCalculator/blob/master/CalculatorApp.java)
-# Console calculator
 # [MADE FOR JAVA COURSE IN SOFTUNI](https://github.com/Kaloioanness/SoftUni)
+
+
+# Console calculator
 
 This is a console application representing a calculator in Java.
 
